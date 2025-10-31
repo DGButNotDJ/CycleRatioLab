@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "CycleRatioLab",
   "resources": {
-    "hash": "sha256-q4Kpwdi4IZMro2jkDQykYh3zehlNz++aazshjTXzUF8=",
+    "hash": "sha256-l2nTh0oq9br5/KtASOCik79h4RrBnKXc8L10tIH1Nuw=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-7Sr9r0634sTFicx8ls0XdrHWZCCap615Q5ByQIrsd0Y="
     },
@@ -42,16 +42,16 @@
       "System.Memory.wasm": "sha256-cdXqXmnA83UXt4hKR63dFQEbh6FG8iwRqqwLrBjmD+c=",
       "System.Net.Http.wasm": "sha256-AHlTBmlh23h6KUX4ub3RUdSWDfeU0lGeCXnnuMJRhcQ=",
       "System.Net.Primitives.wasm": "sha256-FYeG3sBpwdbzqVzUrKqoN3hBIttkkiDtTiHEqLALDE4=",
-      "System.Private.Uri.wasm": "sha256-mKFR/DJJdhh3JSpVG+ByjludwXNdmkKFuQnbq265tEY=",
+      "System.Private.Uri.wasm": "sha256-JhjEBGVmXyNjfiw9P7BBK96e4xoh/cY5Oi8G0SiTQdI=",
       "System.Runtime.InteropServices.JavaScript.wasm": "sha256-xdH4DJ9px7Sr4fNyRFZr6m0yWHs2dLvMmWziINxq+S8=",
-      "System.Runtime.wasm": "sha256-A8HfW1xiQGhVCX9g8O/F0Dl7iSvHOfInTMZpGmstDPU=",
+      "System.Runtime.wasm": "sha256-eQdoVn7cdRMFYjkQzh9470/v4AuG4cdmQawoblSJKhw=",
       "System.Text.Encodings.Web.wasm": "sha256-VOg+zguG96y73fEMapV6IIhp1erfALWn3Bk/JJpuciY=",
       "System.Text.Json.wasm": "sha256-a5m53kiSpT3Z7ruG1InNiAHsB1UTgGnoBa11eA/2TDI=",
       "System.Text.RegularExpressions.wasm": "sha256-SW5L77HZP6F1seYrYKk/8bCw55JedaRD8wTtEYIeaPY=",
       "System.Threading.wasm": "sha256-l1N5mKqZevUN7pZgyKazOGsgCY/8IzY+BCQqre7Ty9c=",
       "netstandard.wasm": "sha256-tC4MUYg/887gRBw1FxClKR2MBqUy/dWdlcitGDMyXJ8=",
       "System.Private.CoreLib.wasm": "sha256-QGoU+Bx9ZLv4yADrfzLypEf2XGUoIg6nEp7U1WGcUzc=",
-      "CycleRatioLab.wasm": "sha256-/N9qZG+FgZIUhxDMf05/SjbrpoTd+0jSvbLuM0ENZDk="
+      "CycleRatioLab.wasm": "sha256-tpXV54GttZBvbDygX6m2Tb8ZOLNSLHRnYmUib88+TrY="
     }
   },
   "cacheBootResources": true,
