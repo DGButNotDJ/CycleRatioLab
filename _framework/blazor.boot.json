@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "CycleRatioLab",
   "resources": {
-    "hash": "sha256-0RGEzbRAcYKa9g6gGrv48JJ0wjIBGj5Thywf3RODRi4=",
+    "hash": "sha256-S6y0JTuFwHnuqexLEJNJAqRBETm0QWPQpz7PxBDWY0k=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-7Sr9r0634sTFicx8ls0XdrHWZCCap615Q5ByQIrsd0Y="
     },
@@ -9,7 +9,7 @@
       "dotnet.runtime.js": "sha256-OH8zlJkheyf8H9oAbu0wu1oQm9FKy/BKjDk4Bj/va3s="
     },
     "wasmNative": {
-      "dotnet.native.wasm": "sha256-pYaj5MngH5mxq6H0WV5yK3c32tXmDYNXvYzJ4Cu8Bh4="
+      "dotnet.native.wasm": "sha256-QYTM00dEtSTJqP7G3T5iHASY6G/Htofix1Wxf57nCA4="
     },
     "icu": {
       "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
@@ -44,14 +44,14 @@
       "System.Net.Primitives.wasm": "sha256-FYeG3sBpwdbzqVzUrKqoN3hBIttkkiDtTiHEqLALDE4=",
       "System.Private.Uri.wasm": "sha256-JhjEBGVmXyNjfiw9P7BBK96e4xoh/cY5Oi8G0SiTQdI=",
       "System.Runtime.InteropServices.JavaScript.wasm": "sha256-xdH4DJ9px7Sr4fNyRFZr6m0yWHs2dLvMmWziINxq+S8=",
-      "System.Runtime.wasm": "sha256-eQdoVn7cdRMFYjkQzh9470/v4AuG4cdmQawoblSJKhw=",
+      "System.Runtime.wasm": "sha256-WJdhtSHS/IqSLqG2mrkeSvxnjDaYX/8imBX5B+u2lrA=",
       "System.Text.Encodings.Web.wasm": "sha256-VOg+zguG96y73fEMapV6IIhp1erfALWn3Bk/JJpuciY=",
       "System.Text.Json.wasm": "sha256-a5m53kiSpT3Z7ruG1InNiAHsB1UTgGnoBa11eA/2TDI=",
       "System.Text.RegularExpressions.wasm": "sha256-SW5L77HZP6F1seYrYKk/8bCw55JedaRD8wTtEYIeaPY=",
       "System.Threading.wasm": "sha256-l1N5mKqZevUN7pZgyKazOGsgCY/8IzY+BCQqre7Ty9c=",
       "netstandard.wasm": "sha256-tC4MUYg/887gRBw1FxClKR2MBqUy/dWdlcitGDMyXJ8=",
-      "System.Private.CoreLib.wasm": "sha256-QGoU+Bx9ZLv4yADrfzLypEf2XGUoIg6nEp7U1WGcUzc=",
-      "CycleRatioLab.wasm": "sha256-KZ5r0/qtDjXKgRPuYfjqA1cuMm1IIggmuLsJi7Cw22c="
+      "System.Private.CoreLib.wasm": "sha256-Kkl6K3cDQBYWmbqRlaDxLioPBEh9xg5jgURbqXuMJ5k=",
+      "CycleRatioLab.wasm": "sha256-Ar918NEunzN8GKfQkfQmhEGRnSqUJqeKy4HOc92r5aA="
     }
   },
   "cacheBootResources": true,
