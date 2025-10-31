@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "CycleRatioLab",
   "resources": {
-    "hash": "sha256-l2nTh0oq9br5/KtASOCik79h4RrBnKXc8L10tIH1Nuw=",
+    "hash": "sha256-tTmv5NAy2/LBV66cH2YlmiGVq3aJ6F7LH9NLJPDL9C8=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-7Sr9r0634sTFicx8ls0XdrHWZCCap615Q5ByQIrsd0Y="
     },
@@ -51,7 +51,7 @@
       "System.Threading.wasm": "sha256-l1N5mKqZevUN7pZgyKazOGsgCY/8IzY+BCQqre7Ty9c=",
       "netstandard.wasm": "sha256-tC4MUYg/887gRBw1FxClKR2MBqUy/dWdlcitGDMyXJ8=",
       "System.Private.CoreLib.wasm": "sha256-QGoU+Bx9ZLv4yADrfzLypEf2XGUoIg6nEp7U1WGcUzc=",
-      "CycleRatioLab.wasm": "sha256-tpXV54GttZBvbDygX6m2Tb8ZOLNSLHRnYmUib88+TrY="
+      "CycleRatioLab.wasm": "sha256-EPZR8W7C/wBM0Yy1I9DHFIiaGGP2qxxXJYkn+DqzUMY="
     }
   },
   "cacheBootResources": true,
