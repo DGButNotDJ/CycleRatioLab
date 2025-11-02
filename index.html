@@ -16,24 +16,30 @@
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
     <link rel="manifest" href="/site.webmanifest" />
 
+    <link rel="alternate" hreflang="fr" href="https://cycleratiolab.fr/?lang=fr" />
+    <link rel="alternate" hreflang="en" href="https://cycleratiolab.fr/?lang=en" />
+    <link rel="alternate" hreflang="es" href="https://cycleratiolab.fr/?lang=es" />
+    <link rel="alternate" hreflang="it" href="https://cycleratiolab.fr/?lang=it" />
+    <link rel="alternate" hreflang="x-default" href="https://cycleratiolab.fr/" />
+
     <!-- SEO multilingue -->
     <meta name="description" content="CycleRatioLab is a complete tool to visualize, compare and export bicycle gear ratios." />
-    <meta name="keywords" content="CycleRatioLab, bikes, gear ratios, visualization, comparison, export, Excel, graphical" />
+    <meta name="keywords" content="CycleRatioLab, bikes, gear ratios, vélo, braquets, visualisation, comparison, export, Excel, graphique, bicicletas, relaciones de marchas, visualización, comparación, exportación, gráfico, fogli Excel, biciclette, rapporti di trasmissione, visualizzazione, confronto, esportazione, grafico" />
     <meta name="robots" content="index, follow">
 
     <!-- === OPEN GRAPH (Facebook, LinkedIn, etc.) === -->
     <meta property="og:title" content="CycleRatioLab – Visualize and Compare Bicycle Gear Ratios" />
     <meta property="og:description" content="CycleRatioLab is a complete tool to visualize, compare and export bicycle gear ratios." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://dgbutnotdj.github.io/CycleRatioLab/" />
-    <meta property="og:image" content="https://dgbutnotdj.github.io/CycleRatioLab/social-preview.png" />
+    <meta property="og:url" content="https://cycleratiolab.fr/" />
+    <meta property="og:image" content="https://cycleratiolab.fr/social-preview.png" />
     <meta property="og:site_name" content="CycleRatioLab" />
 
     <!-- === TWITTER CARD === -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="CycleRatioLab – Visualize and Compare Bicycle Gear Ratios" />
     <meta name="twitter:description" content="CycleRatioLab is a complete tool to visualize, compare and export bicycle gear ratios." />
-    <meta name="twitter:image" content="https://dgbutnotdj.github.io/CycleRatioLab/social-preview.png" />
+    <meta name="twitter:image" content="https://cycleratiolab.fr/social-preview.png" />
 
     <!-- === DONNÉES STRUCTURÉES SCHEMA.ORG === -->
     <script type="application/ld+json">
@@ -41,7 +47,7 @@
           "@context": "https://schema.org",
           "@type": "WebApplication",
           "name": "CycleRatioLab",
-          "url": "https://dgbutnotdj.github.io/CycleRatioLab/",
+          "url": "https://cycleratiolab.fr/",
           "description": "CycleRatioLab is a complete tool to visualize, compare and export bicycle gear ratios.",
           "applicationCategory": "Tool",
           "operatingSystem": "Web",
@@ -53,8 +59,15 @@
             "@type": "Organization",
             "name": "CycleRatioLab Project"
           },
-          "image": "https://dgbutnotdj.github.io/CycleRatioLab/social-preview.png"
+          "image": "https://cycleratiolab.fr/social-preview.png"
         }
+    </script>
+
+    <script>
+        window.getBrowserLanguage = () => {
+            const lang = navigator.language || navigator.userLanguage || 'en';
+            return lang.split('-')[0];
+        };
     </script>
 
     <!-- Chart.js for charts -->
