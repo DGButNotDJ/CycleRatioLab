@@ -18,13 +18,9 @@ It helps cyclists analyze and optimize their drivetrain setups — from road bik
 
 ---
 
-# 🚴‍♀️ CycleRatioLab
-
 👉 **Prueba en línea:**  
 🔗 [https://dgbutnotdj.github.io/CycleRatioLab/](https://dgbutnotdj.github.io/CycleRatioLab/)  
 🔗 **También disponible en:** [www.cycleratiolab.fr/fr](https://www.cycleratiolab.fr/fr)
-
-![CycleRatioLab Preview](social-preview.png)
 
 **CycleRatioLab** es una aplicación web interactiva diseñada para calcular y comparar las relaciones y desarrollos de engranajes de bicicleta.  
 Ayuda a los ciclistas a analizar y optimizar sus configuraciones de transmisión, desde bicicletas de carretera hasta bicicletas de montaña o configuraciones de gravel.
@@ -38,13 +34,9 @@ Ayuda a los ciclistas a analizar y optimizar sus configuraciones de transmisión
 
 ---
 
-# 🚴‍♀️ CycleRatioLab
-
 👉 **Prova online:**  
 🔗 [https://dgbutnotdj.github.io/CycleRatioLab/](https://dgbutnotdj.github.io/CycleRatioLab/)  
 🔗 **Disponibile anche su:** [www.cycleratiolab.fr/it](https://www.cycleratiolab.fr/it)
-
-![CycleRatioLab Preview](social-preview.png)
 
 **CycleRatioLab** è una web app interattiva progettata per calcolare e confrontare i rapporti e gli sviluppi delle biciclette.  
 Aiuta i ciclisti ad analizzare e ottimizzare le loro configurazioni della trasmissione — dalle biciclette da strada alle mountain bike o alle configurazioni gravel.
@@ -57,14 +49,9 @@ Aiuta i ciclisti ad analizzare e ottimizzare le loro configurazioni della trasmi
 - **Interfaccia multilingue:** 🇫🇷 Francese, 🇬🇧 Inglese, 🇪🇸 Spagnolo, 🇮🇹 Italiano  
 
 ---
-
-# 🚴‍♀️ CycleRatioLab
-
 👉 **Prueba en línea:**  
 🔗 [https://dgbutnotdj.github.io/CycleRatioLab/](https://dgbutnotdj.github.io/CycleRatioLab/)  
 🔗 **También disponible en:** [www.cycleratiolab.fr/es](https://www.cycleratiolab.fr/es)
-
-![CycleRatioLab Preview](social-preview.png)
 
 **CycleRatioLab** es una aplicación web interactiva diseñada para calcular y comparar las relaciones y desarrollos de engranajes de bicicleta.  
 Ayuda a los ciclistas a analizar y optimizar sus configuraciones de transmisión, desde bicicletas de carretera hasta bicicletas de montaña o configuraciones de gravel.
