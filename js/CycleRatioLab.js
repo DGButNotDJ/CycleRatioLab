@@ -124,7 +124,7 @@ window.CycleRatioLab = {
         const pointColors = sortedData.map(d => chainringColorMap[d.chainring]);
 
         let pointData;
-        if (TypeOfSort == 1) {
+        if (TypeOfSort == 0) {
             pointData = sortedData.map(d => ({
                 x: d.sprocket,
                 y: displayMode === 'distance' ? d.development : d.ratio,
