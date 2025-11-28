@@ -178,7 +178,7 @@ window.CycleRatioLab = {
                         type: 'linear',
                         title: {
                             display: true,
-                            text: TypeOfSort === 1 ? translations.sprocket || 'Dents Cassette' : 'Index',
+                            text: TypeOfSort === 1 ? 'Index' : translations.sprocket || 'Dents Cassette',
                             font: { weight: 'bold' }
                         },
                         ticks: { font: { weight: 'bold' } }
