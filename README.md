@@ -1,7 +1,7 @@
 # 🚴‍♀️ CycleRatioLab
 
 👉 **Try it online:**  
-🔗 [https://dgbutnotdj.github.io/CycleRatioLab/](https://dgbutnotdj.github.io/CycleRatioLab/)  
+🔗 [https://dgbutnotdj.github.io/CycleRatioLab/](https://dgbutnotdj.github.io/CycleRatioLab/?lang=en) 
 🔗 **Also available at:** [www.cycleratiolab.fr/en](https://www.cycleratiolab.fr/en)
 
 ![CycleRatioLab Preview](social-preview.png)
@@ -19,7 +19,7 @@ It helps cyclists analyze and optimize their drivetrain setups — from road bik
 ---
 
 👉 **Prueba en línea:**  
-🔗 [https://dgbutnotdj.github.io/CycleRatioLab/](https://dgbutnotdj.github.io/CycleRatioLab/)  
+🔗 [https://dgbutnotdj.github.io/CycleRatioLab/](https://dgbutnotdj.github.io/CycleRatioLab/?lang=fr)
 🔗 **También disponible en:** [www.cycleratiolab.fr/fr](https://www.cycleratiolab.fr/fr)
 
 **CycleRatioLab** es una aplicación web interactiva diseñada para calcular y comparar las relaciones y desarrollos de engranajes de bicicleta.  
@@ -35,7 +35,7 @@ Ayuda a los ciclistas a analizar y optimizar sus configuraciones de transmisión
 ---
 
 👉 **Prova online:**  
-🔗 [https://dgbutnotdj.github.io/CycleRatioLab/](https://dgbutnotdj.github.io/CycleRatioLab/)  
+🔗 [https://dgbutnotdj.github.io/CycleRatioLab/](https://dgbutnotdj.github.io/CycleRatioLab/?lang=it)  
 🔗 **Disponibile anche su:** [www.cycleratiolab.fr/it](https://www.cycleratiolab.fr/it)
 
 **CycleRatioLab** è una web app interattiva progettata per calcolare e confrontare i rapporti e gli sviluppi delle biciclette.  
@@ -50,7 +50,7 @@ Aiuta i ciclisti ad analizzare e ottimizzare le loro configurazioni della trasmi
 
 ---
 👉 **Prueba en línea:**  
-🔗 [https://dgbutnotdj.github.io/CycleRatioLab/](https://dgbutnotdj.github.io/CycleRatioLab/)  
+🔗 [https://dgbutnotdj.github.io/CycleRatioLab/](https://dgbutnotdj.github.io/CycleRatioLab/?lang=es) 
 🔗 **También disponible en:** [www.cycleratiolab.fr/es](https://www.cycleratiolab.fr/es)
 
 **CycleRatioLab** es una aplicación web interactiva diseñada para calcular y comparar las relaciones y desarrollos de engranajes de bicicleta.  
