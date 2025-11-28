@@ -1,7 +1,7 @@
 # 🚴‍♀️ CycleRatioLab
 
 👉 **Try it online:**  
-🔗 [https://dgbutnotdj.github.io/CycleRatioLab/](https://dgbutnotdj.github.io/CycleRatioLab/?lang=en) 
+🔗 [https://dgbutnotdj.github.io/CycleRatioLab/](https://dgbutnotdj.github.io/CycleRatioLab/?lang=en)  
 🔗 **Also available at:** [www.cycleratiolab.fr/en](https://www.cycleratiolab.fr/en)
 
 ![CycleRatioLab Preview](social-preview.png)
@@ -18,19 +18,19 @@ It helps cyclists analyze and optimize their drivetrain setups — from road bik
 
 ---
 
-👉 **Prueba en línea:**  
-🔗 [https://dgbutnotdj.github.io/CycleRatioLab/](https://dgbutnotdj.github.io/CycleRatioLab/?lang=fr)
-🔗 **También disponible en:** [www.cycleratiolab.fr/fr](https://www.cycleratiolab.fr/fr)
+👉 **Essayez en ligne :**  
+🔗 [https://dgbutnotdj.github.io/CycleRatioLab/](https://dgbutnotdj.github.io/CycleRatioLab/?lang=fr)  
+🔗 **Disponible aussi sur :** [www.cycleratiolab.fr/fr](https://www.cycleratiolab.fr/fr)
 
-**CycleRatioLab** es una aplicación web interactiva diseñada para calcular y comparar las relaciones y desarrollos de engranajes de bicicleta.  
-Ayuda a los ciclistas a analizar y optimizar sus configuraciones de transmisión, desde bicicletas de carretera hasta bicicletas de montaña o configuraciones de gravel.
+**CycleRatioLab** est une application web interactive conçue pour calculer et comparer les rapports et développements de transmission des vélos.  
+Elle aide les cyclistes à analyser et optimiser leurs configurations — qu’il s’agisse de vélos de route, de VTT ou de montages gravel.
 
-## 🧭 Características principales
+## 🧭 Fonctionnalités principales
 
-- Cálculo automático del **rango de engranajes mínimo, máximo y total**  
-- Comparación visual de las relaciones de engranajes y desarrollos de ruedas  
-- Soporte para múltiples **tipos de bicicletas** (carretera, MTB, gravel, fixie, etc.)  
-- **Interfaz multilingüe:** 🇫🇷 Francés, 🇬🇧 Inglés, 🇪🇸 Español, 🇮🇹 Italiano  
+- Calcul automatique de la **plage de développement minimale, maximale et totale**  
+- Comparaison visuelle des rapports et des développements de roues  
+- Prise en charge de plusieurs **types de vélos** (route, VTT, gravel, fixie, etc.)  
+- **Interface multilingue :** 🇫🇷 Français, 🇬🇧 Anglais, 🇪🇸 Espagnol, 🇮🇹 Italien  
 
 ---
 
@@ -49,8 +49,9 @@ Aiuta i ciclisti ad analizzare e ottimizzare le loro configurazioni della trasmi
 - **Interfaccia multilingue:** 🇫🇷 Francese, 🇬🇧 Inglese, 🇪🇸 Spagnolo, 🇮🇹 Italiano  
 
 ---
+
 👉 **Prueba en línea:**  
-🔗 [https://dgbutnotdj.github.io/CycleRatioLab/](https://dgbutnotdj.github.io/CycleRatioLab/?lang=es) 
+🔗 [https://dgbutnotdj.github.io/CycleRatioLab/](https://dgbutnotdj.github.io/CycleRatioLab/?lang=es)  
 🔗 **También disponible en:** [www.cycleratiolab.fr/es](https://www.cycleratiolab.fr/es)
 
 **CycleRatioLab** es una aplicación web interactiva diseñada para calcular y comparar las relaciones y desarrollos de engranajes de bicicleta.  
@@ -62,4 +63,3 @@ Ayuda a los ciclistas a analizar y optimizar sus configuraciones de transmisión
 - Comparación visual de las relaciones de engranajes y desarrollos de ruedas  
 - Soporte para múltiples **tipos de bicicletas** (carretera, MTB, gravel, fixie, etc.)  
 - **Interfaz multilingüe:** 🇫🇷 Francés, 🇬🇧 Inglés, 🇪🇸 Español, 🇮🇹 Italiano  
-
